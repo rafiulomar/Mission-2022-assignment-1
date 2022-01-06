@@ -103,11 +103,11 @@ body {
   margin-left: 90px;
   padding-right: 30px;
 }
-.coding-right h3 {
+.coding-title {
   font-size: 30px;
   color: #333333;
 }
-.coding-right p {
+.coding-details {
   text-align: justify;
   color: #3e3e3e;
 }
