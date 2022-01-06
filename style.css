@@ -1,166 +1,188 @@
 body {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
 }
+
 .side-color-border {
-  border-left: 5px solid #ff5959;
+	border-left: 5px solid #ff5959;
 }
+
 .top-label {
-  display: flex;
-  justify-content: space-between;
-  margin: 15px 60px;
+	display: flex;
+	justify-content: space-between;
+	margin: 15px 60px;
 }
+
 .top-left {
-  margin-top: 50px;
+	margin-top: 50px;
 }
+
 .top-title {
-  font-size: 50px;
-  color: #333333;
-  padding-left: 15px;
+	font-size: 50px;
+	color: #333333;
+	padding-left: 15px;
 }
+
 .top-left p {
-  text-align: justify;
-  font-size: 16px;
+	text-align: justify;
+	font-size: 16px;
 }
+
 .top-tittle {
-  display: block;
+	display: block;
 }
+
 .color-title {
-  color: #ffad5a;
+	color: #ffad5a;
 }
+
 .half-divider {
-  width: 50%;
+	width: 50%;
 }
+
 .link-area {
-  display: block;
-  margin: 30px 0px;
+	display: block;
+	margin: 30px 0px;
 }
+
 .button-link {
-  color: #ffffff;
-  padding: 15px;
-  background-color: #ff5959;
-  border-radius: 4px;
-  text-decoration: none;
-  margin-top: 20px;
+	color: #ffffff;
+	padding: 15px;
+	background-color: #ff5959;
+	border-radius: 4px;
+	text-decoration: none;
+	margin-top: 20px;
 }
+
 .top-right {
-  margin-left: 50px;
+	margin-left: 50px;
 }
+
 .top-right img {
-  width: 420px;
-  object-fit: cover;
+	width: 420px;
+	object-fit: cover;
 }
 
 .mission-label {
-  margin: 50px 60px;
+	margin: 50px 60px;
 }
 
 .mission-title h2 {
-  font-size: 40px;
-  text-align: center;
+	font-size: 40px;
+	text-align: center;
 }
 
 .missions {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .mission-img {
-  width: 100px;
-  object-fit: cover;
+	width: 100px;
+	object-fit: cover;
 }
 
 .missions p {
-  font-size: 15px;
-  color: #424242;
+	font-size: 15px;
+	color: #424242;
 }
 
 .mission-item {
-  margin: 5px;
-  padding: 10px 30px;
-  border-radius: 10px;
+	margin: 5px;
+	padding: 10px 30px;
+	border-radius: 10px;
 }
+
 .mission-item h3 {
-  font-size: 24px;
+	font-size: 24px;
 }
+
 .item-1 {
-  background-color: #4f9da638;
+	background-color: #4f9da638;
 }
+
 .item-2 {
-  background-color: #ff59594b;
+	background-color: #ff59594b;
 }
+
 .item-3 {
-  background-color: #fff4d6b7;
+	background-color: #fff4d6b7;
 }
 
 .develop-label {
-  display: flex;
-  margin: 100px 60px;
+	display: flex;
+	margin: 100px 60px;
 }
 
 .coding-right {
-  margin-left: 90px;
-  padding-right: 30px;
+	margin-left: 90px;
+	padding-right: 30px;
 }
+
 .coding-title {
-  font-size: 30px;
-  color: #333333;
+	font-size: 30px;
+	color: #333333;
 }
+
 .coding-details {
-  text-align: justify;
-  color: #3e3e3e;
+	text-align: justify;
+	color: #3e3e3e;
 }
 
 .coding-img {
-  width: 350px;
-  object-fit: cover;
+	width: 350px;
+	object-fit: cover;
 }
 
 .footer-section {
-  height: 170px;
-  background-color: #0b0d17;
-  text-align: center;
-  padding-top: 30px;
+	height: 170px;
+	background-color: #0b0d17;
+	text-align: center;
+	padding-top: 30px;
 }
+
 .footer-section h3 {
-  font-style: italic;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 26px;
+	font-style: italic;
+	font-weight: 400;
+	color: #ffffff;
+	font-size: 26px;
 }
+
 .footer-section p {
-  color: #ffffff57;
+	color: #ffffff57;
 }
 
 .footer-title {
-  color: #ff5959;
+	color: #ff5959;
 }
 
 .sub-img {
-  width: 450px;
-  object-fit: cover;
+	width: 450px;
+	object-fit: cover;
 }
+
 .sub-btn {
-  border: none;
-  cursor: pointer;
-  margin-left: 5px;
-  font-size: 18px;
+	border: none;
+	cursor: pointer;
+	margin-left: 5px;
+	font-size: 18px;
 }
+
 .input-email {
-  height: 45px;
-  width: 250px;
-  font-size: 18px;
-  border: 1px solid #0b0d17;
-  border-radius: 5px;
-  font-weight: 700;
-  padding-left: 10px;
+	height: 45px;
+	width: 250px;
+	font-size: 18px;
+	border: 1px solid #0b0d17;
+	border-radius: 5px;
+	font-weight: 700;
+	padding-left: 10px;
 }
 
 .sub-h3 {
-  font-size: 30px;
+	font-size: 30px;
 }
 
 .sub-p {
-  color: #3e3e3e;
+	color: #3e3e3e;
 }
