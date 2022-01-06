@@ -8,7 +8,7 @@ body {
 .top-label {
   display: flex;
   justify-content: space-between;
-  margin: 10px 60px;
+  margin: 15px 60px;
 }
 .top-left {
   margin-top: 50px;
@@ -24,6 +24,8 @@ body {
 }
 #top-color-tittle {
   display: block;
+}
+.color-title {
   color: #ffad5a;
 }
 .half-divider {
@@ -47,4 +49,47 @@ body {
 .top-right img {
   width: 420px;
   object-fit: cover;
+}
+
+.mission-label {
+  margin: 10px 60px;
+}
+
+.mission-title h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.missions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mission-img {
+  width: 100px;
+  object-fit: cover;
+}
+
+.missions p {
+  font-size: 15px;
+  color: #424242;
+}
+
+.mission-item {
+  margin: 5px;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.mission-item h3 {
+  font-size: 24px;
+}
+.item-1 {
+  background-color: #4f9da638;
+}
+.item-2 {
+  background-color: #ff59594b;
+}
+.item-3 {
+  background-color: #fff4d6b7;
 }
