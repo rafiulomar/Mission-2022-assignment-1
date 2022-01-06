@@ -116,3 +116,23 @@ body {
   width: 350px;
   object-fit: cover;
 }
+
+.footer-section {
+  height: 170px;
+  background-color: #0b0d17;
+  text-align: center;
+  padding-top: 30px;
+}
+.footer-section h3 {
+  font-style: italic;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 26px;
+}
+.footer-section p {
+  color: #ffffff57;
+}
+
+.footer-title {
+  color: #ff5959;
+}
